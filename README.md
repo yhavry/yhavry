@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhavry (Yuriy)
 - 👀 I’m interested in computer science and law.
-- 💞️ I am a computer engineering student at York University, I play a buttload of League, and I enjoy occasional programming.
+- 💞️ I am a computer science student at York University, and I enjoy occasional circuit design.
 - 📫 You can email me at yhavry@my.yorku.ca if you have any questions.
 
 <!---
